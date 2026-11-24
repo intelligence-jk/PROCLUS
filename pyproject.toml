@@ -1,0 +1,10 @@
+[project]
+name = "worksheet-gen"
+version = "0.1.0"
+description = "Generate seeded practice worksheets with an exact answer key"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
