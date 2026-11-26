@@ -1,4 +1,4 @@
-# FORGE: Fully Organised Revision Generator for Exercises
+# PROCLUS: named after Proclus, whose commentary on Euclid's Elements was the old teacher's guide
 
 Formerly `worksheet-gen`.
 
