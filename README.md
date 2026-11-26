@@ -1,4 +1,6 @@
-# worksheet-gen
+# FORGE: Fully Organised Revision Generator for Exercises
+
+Formerly `worksheet-gen`.
 
 Generate seeded practice worksheets with an exact answer key.
 
